@@ -23,5 +23,12 @@
 
 ## 08-10-2026
 
-- Lesson 0.4: made my first pull. Also learned new commands and shortcuts. Overall the lesson was not difficult. I didn't encounter any error I couldn't resolve myself.
+- **Lesson 0.4**: made my first pull. Also learned new commands and shortcuts. Overall the lesson was not difficult. I didn't encounter any error I couldn't resolve myself.
 - Made a Commans.md file, where I'm recording commands and what they do.
+
+## 07-10-2026
+
+- **Lesson 0.5**: this was the most time consuming by far but I learned a lot.
+- struggled with writting problems in my own words. I'll try to get better at that.
+- learned how to update a commit and also learned commit some messages. Which had me wondering but was cleared in this lesson.
+- despite it taking so long, I enjoyed it a lot. I hope more lessons are this fun.
