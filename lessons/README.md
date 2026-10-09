@@ -15,6 +15,7 @@ Get set up, find your way around the command line and Git, and write your first 
 | [0.3: Your First Commit and Push](unit-0/0.3-first-commit.md) | Clone this repo, start your journal, and make your first commit and push |
 | [0.4: Getting Around the Command Line](unit-0/0.4-command-line.md) | Make, copy, move and delete files from the terminal, and start your `work` folder |
 | [0.5: Writing Clear Commit Messages](unit-0/0.5-commit-messages.md) | Read your history with `git log`, and write messages that say exactly what changed |
+| [0.6: Your First Python Program](unit-0/0.6-first-python-program.md) | Write and run Python, read its errors, and build a program that turns a mark into a percentage |
 
 ## Coming up
 
