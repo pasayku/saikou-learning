@@ -5,7 +5,7 @@
 - **Rules it breaks:**
   - Rule 1, didn't start with a verb.
   - Rule 2, didn't say what it changed.
-- **Better:** `Updated the command notes`
+- **Better:** `Update command notes`
 
 ## 2. `fixed it`
 
