@@ -33,5 +33,5 @@
 
 - **Lesson 0.6**: before starting the lesson, I had to correct the typos and the spellig mistakes I made from the previous lesson.
 - created my first python file, and learned what a syntaxError is, along with variables and how to use them in sentences.
-- the difficult part was the numbers section. The basic operations like; `~`, `-`, `*` and `/` where straight forward but when I had to make a mark/score calculator, that showed the mark in a sentence as a percentage. 
-- After several errors and help from the auto complete, I understood the `round` function.  Completed the excerscise and get the correct mark as percentage rounded to 1 decimal place.
+- the difficult part was the numbers section. The basic operations like; `~`, `-`, `*` and `/` where straight forward but when I had to make a mark/score calculator, that showed the mark in a sentence as a percentage.
+- After several errors and help from the auto complete, I understood the `round` function.  Completed the excerscise and get the correct mark as percentage rounded to 1 decimal place
