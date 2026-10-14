@@ -17,6 +17,7 @@ Get set up, find your way around the command line and Git, and write your first 
 | [0.5: Writing Clear Commit Messages](unit-0/0.5-commit-messages.md) | Read your history with `git log`, and write messages that say exactly what changed |
 | [0.6: Your First Python Program](unit-0/0.6-first-python-program.md) | Write and run Python, read its errors, and build a program that turns a mark into a percentage |
 | [0.7: Making Decisions with `if`](unit-0/0.7-decisions.md) | Choose what your program does with `if`, `elif` and `else`, and make `score.py` give a WASSCE grade |
+| [0.8: Repeating with `while`](unit-0/0.8-while-loops.md) | Repeat code with `while`, make `score.py` ask again instead of crashing, and build a number guessing game |
 
 ## Coming up
 
