@@ -35,3 +35,10 @@
 - created my first python file, and learned what a syntaxError is, along with variables and how to use them in sentences.
 - the difficult part was the numbers section. The basic operations like; `~`, `-`, `*` and `/` where straight forward but when I had to make a mark/score calculator, that showed the mark in a sentence as a percentage.
 - After several errors and help from the auto complete, I understood the `round` function.  Completed the excerscise and get the correct mark as percentage rounded to 1 decimal place
+
+## 16-10-2026
+
+- **Lesson 0.7** started the lesson by correcting prevoius mistakes, which was tedious but was good prep for the lesson.
+- learned what a *"REPL"* is, along with *booleans*, and the meainings of some signs.
+- also learned what are `if`, `else`, and `elif` statements. Along with `and` and `or` and used them to make a boss fight, wich I enjoyed a lot. 
+- I also added a the WASSCE grade to the score calculator program.
