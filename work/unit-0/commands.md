@@ -7,7 +7,7 @@
 | `ls`                | Lists the folders in your current directory/folder, the folder you're working in |
 | `ls -a`             | Lists files and folders along and also hidden files                              |
 | `cd`                | Changes the folder/directory                                                     |
-| `cd..`              | Takes you to the parent folder                                                  |
+| `cd ..`             | Takes you to the parent folder                                                  |
 | `cd ~`              | Takes you to your home folder                                                    |
 | `mkdir`             | Create new folder                                                               |
 | `touch`             | Create new file                                                                 |
