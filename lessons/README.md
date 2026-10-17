@@ -18,6 +18,7 @@ Get set up, find your way around the command line and Git, and write your first 
 | [0.6: Your First Python Program](unit-0/0.6-first-python-program.md) | Write and run Python, read its errors, and build a program that turns a mark into a percentage |
 | [0.7: Making Decisions with `if`](unit-0/0.7-decisions.md) | Choose what your program does with `if`, `elif` and `else`, and make `score.py` give a WASSCE grade |
 | [0.8: Repeating with `while`](unit-0/0.8-while-loops.md) | Repeat code with `while`, make `score.py` ask again instead of crashing, and build a number guessing game |
+| [0.9: Lists and `for` Loops](unit-0/0.9-lists.md) | Keep many values in one list, go through them with `for`, and sum up a class's marks |
 
 ## Coming up
 
