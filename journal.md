@@ -42,3 +42,7 @@
 - learned what a *"REPL"* is, along with *booleans*, and the meainings of some signs.
 - also learned what are `if`, `else`, and `elif` statements. Along with `and` and `or` and used them to make a boss fight, wich I enjoyed a lot. 
 - I also added a the WASSCE grade to the score calculator program.
+
+## 17-10-2026
+- **Lesson 0.8** today was a big one. Before entering the lesson, I had to go back the last lesson and amend my mistakes, which I'm getting used to. I'm liking it now because it's like a revision, and I need, cause I low-key forget everything after a lesson. But this one was good
+- Then I made my first *loop.py* file, where I learned the difference between a `while` loop and an `if` function, along with infinite loops and how to break loops, which wasn't easy.
