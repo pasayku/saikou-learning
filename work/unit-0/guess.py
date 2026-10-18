@@ -7,7 +7,6 @@
 
 import random
 secret = random.randint(1, 100)
-
 secret = int(secret)
 
 count = 0
@@ -25,15 +24,19 @@ count += 1
 
 
 if answer > (secret): 
-    print ("Too high.")
+    print("Too high.")
+    while answer > (secret + 20):
+        print("Your guess is off by aeons. Try lower.")
     answer = int(input("Your guess: "))
     
     count += 1
 while answer < (secret):
-    print ("Too low.")
+    print("Too low.")
+    while answer < (secret - 20):
+        print("Your guess is lower than my self-esteem. Aim higher.")
     answer = int(input("Your guess: "))
 
     count += 1
 else:
     if answer == (secret): 
-        print ("You got it in", 0 + count, "guesses")
+        print("You got it in", 0 + count, "guesses")
