@@ -12,10 +12,17 @@ secret = int(secret)
 
 count = 0
 
+print(secret)
+
 print("I'm thinking of a number from 1 to 100.")
-answer = int(input("Your guess: "))
+answer = (input("Your guess: "))
+while not answer.isdigit():
+    print("Please pick a number between 1 and 100, like 67.")
+    answer = (input("Your guess: "))
+answer = int(answer)
 
 count += 1
+
 
 if answer > (secret): 
     print ("Too high.")
