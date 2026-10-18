@@ -46,3 +46,8 @@
 ## 17-10-2026
 - **Lesson 0.8** today was a big one. Before entering the lesson, I had to go back the last lesson and amend my mistakes, which I'm getting used to. I'm liking it now because it's like a revision, and I need, cause I low-key forget everything after a lesson. But this one was good
 - Then I made my first *loop.py* file, where I learned the difference between a `while` loop and an `if` function, along with infinite loops and how to break loops, which wasn't easy.
+
+## 18-10-2026
+- still on **Lesson 0.8**. More than half of the time went into solving step 7 in the lesson. However after getting help from *Narciso*, I was able to complete it overnight. Then use the same method to complete step 8 and to make "mine", I made sure the program didn't when you enter a word instead of a number. 
+- to make it mine more, I also tried to add taunts, and got very far but when I wanted, it to say when the guess was too high and/or the guess was too low, the program run into infiite loop. I could only get it to say, the guess was too high. I wanted to keep trying but had to get my day started. Next time, I know I can get it done.
+- My problem is that, I don't actually understand their meaning, I have to keep trying until I get what I want. It's kinda like high school Trig, I never fully understood those functions but I knew how to use them. But this isn't high school, I don't want to forget anything I'm learning.
