@@ -44,10 +44,19 @@
 - I also added a the WASSCE grade to the score calculator program.
 
 ## 17-10-2026
+
 - **Lesson 0.8** today was a big one. Before entering the lesson, I had to go back the last lesson and amend my mistakes, which I'm getting used to. I'm liking it now because it's like a revision, and I need, cause I low-key forget everything after a lesson. But this one was good
 - Then I made my first *loop.py* file, where I learned the difference between a `while` loop and an `if` function, along with infinite loops and how to break loops, which wasn't easy.
 
 ## 18-10-2026
+
 - still on **Lesson 0.8**. More than half of the time went into solving step 7 in the lesson. However after getting help from *Narciso*, I was able to complete it overnight. Then use the same method to complete step 8 and to make "mine", I made sure the program didn't when you enter a word instead of a number. 
 - to make it mine more, I also tried to add taunts, and got very far but when I wanted, it to say when the guess was too high and/or the guess was too low, the program run into infiite loop. I could only get it to say, the guess was too high. I wanted to keep trying but had to get my day started. Next time, I know I can get it done.
 - My problem is that, I don't actually understand their meaning, I have to keep trying until I get what I want. It's kinda like high school Trig, I never fully understood those functions but I knew how to use them. But this isn't high school, I don't want to forget anything I'm learning.
+
+## 15-11-2026
+
+- **Lesson 0.8 (Feedback & Fixes)**: took a 3–4 week break from lessons because of my attachment, and finally got back to it last week Wednesday to work through the feedback on Lesson 0.8.
+- Started by fixing `score.py`. The main issue was how I handled my `while` loops and converting inputs to `int` too early. Once I understood that a `while` loop needs something inside it to change so the condition can actually become `False`, it clicked. I also fix up the `elif` conditions for the grades so no marks were Forgotten. It took two or three days, wasn't too hard, I just didn't have much time but I actually felt like I was making real progress.
+- Then I moved on to `guess.py`. That one had a lot more errors I had indented loops and separate `if`and `while` blocks that kept trapping me in infinite loops. After being away for so long, I honestly didn't even remember half of what I had written, so I practically rebuilt it from scratch following the pseudo-code plan from the feedback. 
+- Without that feedback breakdown, I would have been stuck for a long time, so following it step-by-step made it way easier to finally get the taunts, guess counter, and `isdigit()` validation working together.
