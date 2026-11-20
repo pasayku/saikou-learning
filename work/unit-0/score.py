@@ -16,12 +16,17 @@ total = int(total)
 
 while total == 0:
     print("The total can't be 0.")
-    total = input("Out of: ")
+    while not total.isdigit():
+        print("Please type a whole number, like 42.")
+        total = input("Out of: ")
     total = int(total)
 
 while (total) < (mark):
     print("Your mark can't be more than the total.")
     total = input("Out of: ")
+    while not total.isdigit():
+        print("Please type a whole number, like 42.")
+        total = input("Out of: ")
     total = int(total)
 
 else:
