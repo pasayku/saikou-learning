@@ -4,7 +4,11 @@ for subject in subjects:
     print(f"I Study {subject}.")
 print("That's all my subjects.")
 
-index = 0
-while index < len(subjects):
-    print(f"I study {subjects[index]}.")
-    index += 1
+marks = [72, 45, 88, 50]
+total = 0
+for mark in marks:
+    total += mark
+print(f"Total: {total}")
+print(f"Average: {total / len(marks)}")
+
+sum(marks)
