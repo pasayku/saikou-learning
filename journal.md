@@ -60,3 +60,7 @@
 - Started by fixing `score.py`. The main issue was how I handled my `while` loops and converting inputs to `int` too early. Once I understood that a `while` loop needs something inside it to change so the condition can actually become `False`, it clicked. I also fix up the `elif` conditions for the grades so no marks were Forgotten. It took two or three days, wasn't too hard, I just didn't have much time but I actually felt like I was making real progress.
 - Then I moved on to `guess.py`. That one had a lot more errors I had indented loops and separate `if`and `while` blocks that kept trapping me in infinite loops. After being away for so long, I honestly didn't even remember half of what I had written, so I practically rebuilt it from scratch following the pseudo-code plan from the feedback. 
 - Without that feedback breakdown, I would have been stuck for a long time, so following it step-by-step made it way easier to finally get the taunts, guess counter, and `isdigit()` validation working together.
+
+## 19-11-2026
+
+- **Lesson 0.9**: the lesson took me to back to correct my mistakes from the previous lesson as usual. I'm starting to realise that most of my errors come from me not testing my code enough, and it also had me wondering how Narciso catches all the errors, which are always too ovious when if fixing them. So in `score.py.` I forgot the `isdigit` check for when the mark is greater than the total. Since it wasn't a new error, this fix was easy and quick. Just a little bummed is missed it. After the "revison". I moved 
